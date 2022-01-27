@@ -7,12 +7,13 @@ I am a bioinformatician with the [Gaiti Lab](https://www.gaitilab.com/) and an a
 💻 single cell transcriptomics
 
 <br/> 
-🔬 By day: data analysis, pipeline development, coding, and statistics
+🔬 By day: data analysis, pipeline development, coding, and statistics \
 🎓 By night: pursuing an online MSc. in Data Science, University of Texas at Austin
 
 <br/> 
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matt-sd-watson&hide=html,jupyter%20notebook&theme=tokyonight)[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=matt-sd-watson)](https://github.com/matt-sd-watson/github-readme-stats)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matt-sd-watson&hide=html,jupyter%20notebook&theme=tokyonight)
+![[My GitHub stats](https://github-readme-stats.vercel.app/api?username=matt-sd-watson&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/matt-sd-watson/github-readme-stats)
 
 
 <br/> 
