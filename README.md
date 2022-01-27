@@ -24,7 +24,7 @@ I am a bioinformatician with the [Gaiti Lab](https://www.gaitilab.com/) and an a
 <br/> 
 Check out some of the Github software that I have contributed to!
 
-[pangolin](https://github.com/cov-lineages/pangolin) \
-[ggtree](https://github.com/YuLab-SMU/ggtree) \
-[civet/civet3](https://github.com/artic-network/civet) \
-[snipit](https://github.com/aineniamh/snipit)
+🦔  [pangolin](https://github.com/cov-lineages/pangolin) \
+🌲  [ggtree](https://github.com/YuLab-SMU/ggtree) \
+🔎  [civet/civet3](https://github.com/artic-network/civet) \
+⚡   [snipit](https://github.com/aineniamh/snipit)
