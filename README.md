@@ -2,9 +2,11 @@
 
 I am a bioinformatician with the [Gaiti Lab](https://www.gaitilab.com/) and an aspiring data scientist with experience in:
 
-♋ cancer genomics 
-🐛 public health pathogen analysis 
-💻 single cell transcriptomics
+♋ cancer genomics \
+🐛 public health pathogen analysis \
+💻 single cell transcriptomics \
+
+🎓 Pursuing an MSc. in Data Science, University of Texas at Austin
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=matt-sd-watson)](https://github.com/matt-sd-watson/github-readme-stats)
 
