@@ -13,8 +13,12 @@ I am a bioinformatician with the [Gaiti Lab](https://www.gaitilab.com/) and an a
 
 <br/> 
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matt-sd-watson&layout=compact&hide=html,jupyter%20notebook&theme=tokyonight)![My GitHub stats](https://github-readme-stats.vercel.app/api?username=matt-sd-watson&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matt-sd-watson&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-sd-watson&layout=compact&hide=html,jupyter%20notebook&theme=tokyonight" />
+</a>
 
 <br/> 
 Check out some of the Github software that I have contributed to!
