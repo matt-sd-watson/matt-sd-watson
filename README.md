@@ -14,7 +14,7 @@ I am a bioinformatician with the [Gaiti Lab](https://www.gaitilab.com/) and an a
 <br/> 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matt-sd-watson&count_private=true&show_icons=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matt-sd-watson&layout=compact&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-sd-watson&layout=compact&hide=html,jupyter%20notebook&exclude_repo=uniread,biostatistics_in_r,kitcompare_RNA,annotate_ncov_trees" />
