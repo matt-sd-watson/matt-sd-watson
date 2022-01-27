@@ -2,9 +2,9 @@
 
 I am a bioinformatician with the @GaitiLab and an aspiring data scientist with experience in: \
 
-♋ cancer genomics \
+♋ cancer genomics 
 
-🐛 public health pathogen analysis \
+🐛 public health pathogen analysis 
 
 💻 single cell transcriptomics
 
@@ -12,7 +12,7 @@ I am a bioinformatician with the @GaitiLab and an aspiring data scientist with e
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=matt-sd-watson)](https://github.com/matt-sd-watson/github-readme-stats)
 
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matt-sd-watson&hide=html,jupyter_notebook&theme=tokyonight)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matt-sd-watson&hide=html,jupyter%20notebook&theme=tokyonight)
 
 CHeck out some of the Github software that I have contributed to!
 
