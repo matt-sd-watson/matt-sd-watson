@@ -13,9 +13,7 @@ I am a bioinformatician with the [Gaiti Lab](https://www.gaitilab.com/) and an a
 
 <br/> 
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matt-sd-watson&hide=html,jupyter%20notebook&theme=tokyonight)
-<br/> 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=matt-sd-watson&count_private=true&show_icons=true&include_all_commits=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matt-sd-watson&hide=html,jupyter%20notebook&theme=tokyonight)![My GitHub stats](https://github-readme-stats.vercel.app/api?username=matt-sd-watson&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
 
 
 <br/> 
