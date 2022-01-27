@@ -14,10 +14,10 @@ I am a bioinformatician with the [Gaiti Lab](https://www.gaitilab.com/) and an a
 <br/> 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matt-sd-watson&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matt-sd-watson&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-sd-watson&hide=html,jupyter%20notebook&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-sd-watson&hide=html,jupyter%20notebook" />
 </a>
 
 <br/> 
