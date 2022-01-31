@@ -23,7 +23,7 @@ I am a bioinformatician with the [Gaiti Lab](https://www.gaitilab.com/) and an a
 
 <br/> 
 
-![Visits](https://profile-counter.glitch.me/{matt-sd-watson}/count.svg)
+![](https://komarev.com/ghpvc/?username=matt-sd-watson&color=blue&label=Visits)
 
 <br>
 
