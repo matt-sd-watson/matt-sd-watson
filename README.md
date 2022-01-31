@@ -22,6 +22,11 @@ I am a bioinformatician with the [Gaiti Lab](https://www.gaitilab.com/) and an a
 </a>
 
 <br/> 
+
+![Visits](https://profile-counter.glitch.me/{matt-sd-watson}/count.svg)
+
+<br>
+
 Check out some of the Github software that I have contributed to!
 
 🦔  [pangolin](https://github.com/cov-lineages/pangolin) \
