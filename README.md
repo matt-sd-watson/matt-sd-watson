@@ -27,7 +27,14 @@ I am a bioinformatician with the [Gaiti Lab](https://www.gaitilab.com/) and an a
 
 <br>
 
-Check out some of the Github software that I have contributed to!
+Check out some of my software packages!
+
+:racing_car: [FASTAfurious](https://github.com/matt-sd-watson/FASTAfurious) \
+:mushroom: [spora](https://github.com/matt-sd-watson/spora)
+
+<br>
+
+Also check out some of the Github software that I have contributed to!
 
 🦔  [pangolin](https://github.com/cov-lineages/pangolin) \
 🌲  [ggtree](https://github.com/YuLab-SMU/ggtree) \
