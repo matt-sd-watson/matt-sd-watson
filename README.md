@@ -4,11 +4,11 @@ I am a bioinformatician with the [Gaiti Lab](https://www.gaitilab.com/) and an a
 
 ♋ cancer genomics \
 🐛 public health pathogen analysis \
-💻 single cell transcriptomics
+💻 single cell multi-omics
 
 <br/> 
 
-🔬 By day: data analysis, pipeline development, coding, and statistics \
+🔬 By day: data analysis, pipeline engineering, coding, statistics, CI/CD \
 🎓 By night: pursuing an online MSc. in Data Science, University of Texas at Austin \
 ⏰ Off the clock: I can be found in a 🛶 or seeking a new international adventure ✈️. Almost always looking for a good 🍺. 
 
