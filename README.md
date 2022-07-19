@@ -30,11 +30,12 @@ I am a bioinformatician with the [Gaiti Lab](https://www.gaitilab.com/) and an a
 Check out some of my software packages!
 
 :racing_car: [FASTAfurious](https://github.com/matt-sd-watson/FASTAfurious) \
-:mushroom: [spora](https://github.com/matt-sd-watson/spora)
+:mushroom: [spora](https://github.com/matt-sd-watson/spora) \
+:hammer: [nf-processes](https://github.com/GaitiLab/scRNA-utils)
 
 <br>
 
-Also check out some of the Github software that I have contributed to!
+Also check out some of the public Github software that I have contributed to!
 
 🦔  [pangolin](https://github.com/cov-lineages/pangolin) \
 🌲  [ggtree](https://github.com/YuLab-SMU/ggtree) \
