@@ -31,7 +31,7 @@ Check out some of my software packages!
 
 :racing_car: [FASTAfurious](https://github.com/matt-sd-watson/FASTAfurious) \
 :mushroom: [spora](https://github.com/matt-sd-watson/spora) \
-:hammer: [nf-processes](https://github.com/GaitiLab/scRNA-utils)
+:twisted_rightwards_arrows: [nf-processes](https://github.com/GaitiLab/scRNA-utils)
 
 <br>
 
@@ -40,4 +40,5 @@ Also check out some of the public Github software that I have contributed to!
 🦔  [pangolin](https://github.com/cov-lineages/pangolin) \
 🌲  [ggtree](https://github.com/YuLab-SMU/ggtree) \
 🔎  [civet/civet3](https://github.com/artic-network/civet) \
-⚡   [snipit](https://github.com/aineniamh/snipit)
+⚡   [snipit](https://github.com/aineniamh/snipit) \
+:signal_strength: [infercnv](https://github.com/broadinstitute/infercnv)
