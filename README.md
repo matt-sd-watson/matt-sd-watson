@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a bioinformatician with the [Gaiti Lab](https://www.gaitilab.com/) and an aspiring data scientist with experience in:
+I am a programmer in the genomics data sciences and an aspiring data scientist with experience in:
 
 ♋ cancer genomics \
 🐛 public health pathogen analysis \
