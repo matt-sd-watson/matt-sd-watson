@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a programmer in the genomics data sciences and an aspiring data scientist with experience in:
+I am a programmer/developer with the LTRI at Mount Sinai (Toronto, Canada) working jointly with the [Campbell](https://www.camlab.ca/) and [Jackson](https://www.jacksonlabltri.com/) groups with experience in:
 
 ♋ cancer genomics \
 🐛 public health pathogen analysis \
@@ -8,7 +8,7 @@ I am a programmer in the genomics data sciences and an aspiring data scientist w
 
 <br/> 
 
-🔬 By day: data analysis, pipeline engineering, coding, statistics, CI/CD \
+🔬 By day: dev, pipeline engineering, coding, statistics, CI/CD \
 🎓 By night: pursuing an online MSc. in Data Science, University of Texas at Austin \
 ⏰ Off the clock: I can be found in a 🛶 or seeking a new international adventure ✈️. Almost always looking for a good 🍺. 
 
@@ -31,7 +31,8 @@ Check out some of my software packages!
 
 :racing_car: [FASTAfurious](https://github.com/matt-sd-watson/FASTAfurious) \
 :mushroom: [spora](https://github.com/matt-sd-watson/spora) \
-:twisted_rightwards_arrows: [nf-processes](https://github.com/GaitiLab/scRNA-utils)
+:twisted_rightwards_arrows: [nf-processes](https://github.com/GaitiLab/scRNA-utils) \
+:bar_chart: [cytosel](https://camlab.shinyapps.io/cytosel/)
 
 <br>
 
