@@ -32,7 +32,7 @@ Check out some of my software packages!
 :racing_car: [FASTAfurious](https://github.com/matt-sd-watson/FASTAfurious) \
 :mushroom: [spora](https://github.com/matt-sd-watson/spora) \
 :twisted_rightwards_arrows: [nf-processes](https://github.com/GaitiLab/scRNA-utils) \
-:bar_chart: [cytosel](https://camlab.shinyapps.io/cytosel/)
+:bar_chart: [cytomarker](https://camlab.shinyapps.io/cytomarker/)
 
 <br>
 
