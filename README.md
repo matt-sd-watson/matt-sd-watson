@@ -2,6 +2,8 @@
 
 I am a programmer/developer with the LTRI at Mount Sinai (Toronto, Canada) working jointly with the [Campbell](https://www.camlab.ca/) and [Jackson](https://www.jacksonlabltri.com/) groups with experience in:
 
+🐍 programming and software development \
+📌 Data science/analysis \
 ♋ cancer genomics \
 🐛 public health pathogen analysis \
 💻 single cell multi-omics
