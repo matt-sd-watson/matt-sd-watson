@@ -29,6 +29,10 @@ I am a programmer/developer with the LTRI at Mount Sinai (Toronto, Canada) worki
 
 <br>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=matt-sd-watson)](https://git.io/streak-stats)
+
+<br>
+
 Check out some of my software packages!
 
 :racing_car: [FASTAfurious](https://github.com/matt-sd-watson/FASTAfurious) \
