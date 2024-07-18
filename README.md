@@ -35,7 +35,7 @@ I am a programmer/developer with the LTRI at Mount Sinai (Toronto, Canada) worki
 
 Check out some of my software packages!
 
-:racing_car: [FASTAfurious](https://github.com/matt-sd-watson/FASTAfurious) \
+:fish: [rakaia](https://camlab-bioml.github.io/rakaia-doc/)) \
 :mushroom: [spora](https://github.com/matt-sd-watson/spora) \
 :twisted_rightwards_arrows: [nf-processes](https://github.com/GaitiLab/scRNA-utils) \
 :bar_chart: [cytomarker](https://camlab.shinyapps.io/cytomarker/)
