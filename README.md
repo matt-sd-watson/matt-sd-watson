@@ -4,13 +4,14 @@ I am a programmer/developer with the LTRI at Mount Sinai (Toronto, Canada) worki
 
 🐍 programming and software development \
 📌 Data science/analysis \
+📷 high dimensional multiplexed imaging \
 ♋ cancer genomics \
 🐛 public health pathogen analysis \
 💻 single cell multi-omics
 
 <br/> 
 
-🔬 By day: dev, pipeline engineering, coding, statistics, CI/CD \
+🔬 By day: programming, development, coding, statistics, CI/CD \
 🎓 By night: pursuing an online MSc. in Data Science, University of Texas at Austin \
 ⏰ Off the clock: I can be found in a 🛶 or seeking a new international adventure ✈️. Almost always looking for a good 🍺. 
 
@@ -35,10 +36,10 @@ I am a programmer/developer with the LTRI at Mount Sinai (Toronto, Canada) worki
 
 Check out some of my software packages!
 
-:fish: [rakaia](https://camlab-bioml.github.io/rakaia-doc/)) \
+:fish: [rakaia](https://camlab-bioml.github.io/rakaia-doc)) \
 :mushroom: [spora](https://github.com/matt-sd-watson/spora) \
 :twisted_rightwards_arrows: [nf-processes](https://github.com/GaitiLab/scRNA-utils) \
-:bar_chart: [cytomarker](https://camlab.shinyapps.io/cytomarker/)
+:bar_chart: [cytomarker](https://camlab.shinyapps.io/cytomarker)
 
 <br>
 
