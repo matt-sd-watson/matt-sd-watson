@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a programmer/developer with the LTRI at Mount Sinai (Toronto, Canada) working jointly with the [Campbell](https://www.camlab.ca/) and [Jackson](https://www.jacksonlabltri.com/) groups with experience in:
+I am a programmer/software developer with the LTRI at Mount Sinai (Toronto, Canada) working jointly with the [Campbell](https://www.camlab.ca/) and [Jackson](https://www.jacksonlabltri.com/) groups with experience in:
 
 🐍 programming and software development \
 📌 Data science/analysis \
@@ -36,17 +36,18 @@ I am a programmer/developer with the LTRI at Mount Sinai (Toronto, Canada) worki
 
 Check out some of my software packages!
 
-:fish: [rakaia](https://camlab-bioml.github.io/rakaia-doc)) \
+:fish: [rakaia](https://camlab-bioml.github.io/rakaia-doc) \
 :mushroom: [spora](https://github.com/matt-sd-watson/spora) \
 :twisted_rightwards_arrows: [nf-processes](https://github.com/GaitiLab/scRNA-utils) \
 :bar_chart: [cytomarker](https://camlab.shinyapps.io/cytomarker)
 
 <br>
 
-Also check out some of the public Github software that I have contributed to!
+Public projects that I have contributed to!
 
 🦔  [pangolin](https://github.com/cov-lineages/pangolin) \
 🌲  [ggtree](https://github.com/YuLab-SMU/ggtree) \
 🔎  [civet/civet3](https://github.com/artic-network/civet) \
 ⚡   [snipit](https://github.com/aineniamh/snipit) \
-:signal_strength: [infercnv](https://github.com/broadinstitute/infercnv)
+:signal_strength: [infercnv](https://github.com/broadinstitute/infercnv) \
+:goat: [steinbock](https://github.com/BodenmillerGroup/steinbock)
