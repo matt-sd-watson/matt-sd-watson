@@ -11,9 +11,8 @@ I am a programmer/software developer with the LTRI at Mount Sinai (Toronto, Cana
 
 <br/> 
 
-🔬 programming, development, coding, statistics, CI/CD \
-🎓 MSc. in Data Science, University of Texas at Austin \
-⏰ Off the clock: I can be found in a 🛶 or seeking a new international adventure ✈️. Almost always looking for a good 🍺. 
+🔬 software development, data analyais, CI/CD \
+🎓 MSc. Data Science, University of Texas at Austin \
 
 <br/> 
 
