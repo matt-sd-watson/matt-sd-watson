@@ -13,7 +13,6 @@ I am a programmer/software developer with the LTRI at Mount Sinai (Toronto, Cana
 
 🔬 software development/programming, data analysis, CI/CD \
 🎓 MSc. Data Science, University of Texas at Austin \
-⏲️ cottaging, hiking, travelling, and the occasional 🍺
 
 <br/> 
 
