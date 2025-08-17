@@ -7,12 +7,12 @@ I am a programmer/software developer with the LTRI at Mount Sinai (Toronto, Cana
 📷 high dimensional multiplexed imaging \
 ♋ cancer genomics \
 🐛 public health pathogen analysis \
-💻 single cell multi-omics
+💻 multi-omics
 
 <br/> 
 
 🔬 software development/programming, data analysis, CI/CD \
-🎓 MSc. Data Science, University of Texas at Austin \
+🎓 MSc. Data Science, University of Texas at Austin
 
 <br/> 
 
