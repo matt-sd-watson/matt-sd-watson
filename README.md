@@ -37,7 +37,6 @@ Check out some of my software packages!
 
 :fish: [rakaia](https://camlab-bioml.github.io/rakaia-doc) \
 :mushroom: [spora](https://github.com/matt-sd-watson/spora) \
-:twisted_rightwards_arrows: [nf-processes](https://github.com/GaitiLab/scRNA-utils) \
 :bar_chart: [cytomarker](https://camlab.shinyapps.io/cytomarker)
 
 <br>
