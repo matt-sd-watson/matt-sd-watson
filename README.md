@@ -1,15 +1,6 @@
 ### Hi there 👋
 
-I am a programmer/software developer with the LTRI at Mount Sinai (Toronto, Canada) working jointly with the [Campbell](https://www.camlab.ca/) and [Jackson](https://www.jacksonlabltri.com/) groups with experience in:
-
-🐍 programming and software development \
-📌 Data science/analysis \
-📷 high dimensional multiplexed imaging \
-♋ cancer genomics \
-🐛 public health pathogen analysis \
-💻 multi-omics
-
-<br/> 
+I am a programmer/software developer with the LTRI at Mount Sinai (Toronto, Canada) working jointly with the [Campbell](https://www.camlab.ca/) and [Jackson](https://www.jacksonlabltri.com/) groups. 
 
 🔬 software development/programming, data analysis, CI/CD \
 🎓 MSc. Data Science, University of Texas at Austin
@@ -38,14 +29,3 @@ Check out some of my software packages!
 :fish: [rakaia](https://camlab-bioml.github.io/rakaia-doc) \
 :mushroom: [spora](https://github.com/matt-sd-watson/spora) \
 :bar_chart: [cytomarker](https://camlab.shinyapps.io/cytomarker)
-
-<br>
-
-Public projects that I have contributed to!
-
-🦔  [pangolin](https://github.com/cov-lineages/pangolin) \
-🌲  [ggtree](https://github.com/YuLab-SMU/ggtree) \
-🔎  [civet/civet3](https://github.com/artic-network/civet) \
-⚡   [snipit](https://github.com/aineniamh/snipit) \
-:signal_strength: [infercnv](https://github.com/broadinstitute/infercnv) \
-:goat: [steinbock](https://github.com/BodenmillerGroup/steinbock)
