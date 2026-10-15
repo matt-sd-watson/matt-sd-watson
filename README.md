@@ -12,4 +12,5 @@ Check out some of my software packages!
 
 :fish: [rakaia](https://camlab-bioml.github.io/rakaia-doc) \
 :mushroom: [spora](https://github.com/matt-sd-watson/spora) \
+🖼️ [imcjs](https://github.com/camlab-bioml/imcjs) \
 :bar_chart: [cytomarker](https://camlab.shinyapps.io/cytomarker)
